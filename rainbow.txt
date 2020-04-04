@@ -1,8 +1,8 @@
 Rainbow
 Purple
-blue
-orange
-yellow
-green
-red
+Blue
+Orange
+Yellow
+Green
+Red
 these are the 7 rainbow colors
